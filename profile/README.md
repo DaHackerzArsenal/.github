@@ -1,2 +1,3 @@
 # DA HACKERZ ARSENAL
-Is an open-source organization that provides tools for [Hackerz](http://www.catb.org/~esr/faqs/hacker-howto.html)
+A Cybersecurity organization that provides businesses consulting with experts only and also provide with open-source tools for [Hackerz](http://www.catb.org/~esr/faqs/hacker-howto.html)
+
